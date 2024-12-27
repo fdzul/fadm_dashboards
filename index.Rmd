@@ -5,7 +5,7 @@ links:
   - label: Atras
     url: "https://sparkly-kleicha-e38ffa.netlify.app/"
   - label: Dashboards
-    url: ""
+    url: "https://sparkly-cannoli-032c62.netlify.app"
     
 output:
   postcards::trestles
