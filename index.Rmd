@@ -11,7 +11,18 @@ output:
   postcards::trestles
 ---
  
-##  **<span style="color:#003300;">Dashboards</span>**
+ 
+  
+##  **<span style="color:#003300;">Dashboards (2024)</span>**
+
+<span style="color:#660033;">
+
+</span>
+
+
+
+ 
+##  **<span style="color:#003300;">Dashboards (2022-2023)</span>**
 
 <span style="color:#660033;">
 
@@ -28,7 +39,5 @@ output:
 •	[Programa de Prevención y Control del dengue del estado de Yucatán](https://elegant-meringue-edbfe0.netlify.app/).
 
 •	[Modelos estrategico de focalización del Dengue en areas urbanas de México](https://luminous-crepe-19a0f1.netlify.app/)
-
-
 
 </span>
