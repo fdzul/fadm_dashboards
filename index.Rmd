@@ -1,0 +1,34 @@
+---
+title:  <span style="color:#003300;">Felipe Antonio Dzul Manzanilla</span>
+image: "https://github.com/fdzul/fadm/blob/main/fadm.jpg?raw=true"
+links:
+  - label: Atras
+    url: "https://sparkly-kleicha-e38ffa.netlify.app/"
+  - label: Dashboards
+    url: ""
+    
+output:
+  postcards::trestles
+---
+ 
+##  **<span style="color:#003300;">Dashboards</span>**
+
+<span style="color:#660033;">
+
+•	[Programa de Prevención y Control del Dengue Nacional](https://fdzul.github.io/den_mx_dashboard/).
+
+•	[Sistema Integral de Monitoreo de Vectores](https://fdzul.github.io/simv_denmx_dashboard/)
+
+•	[Programa de Prevención y Control del dengue del estado de Veracruz](https://fdzul.github.io/den_ver_dashboard/).
+
+•	[Programa de Prevención y Control del dengue en el Municipio de Chilpancingo de los Bravo, Guerrero](https://fdzul.github.io/direccion_municipal_salud)
+
+•	[Programa de Prevención y Control del dengue en el Municipio de Poza Rica, Veracruz](https://fdzul.github.io/denmx_dashboard_pozarica/)
+
+•	[Programa de Prevención y Control del dengue del estado de Yucatán](https://elegant-meringue-edbfe0.netlify.app/).
+
+•	[Modelos estrategico de focalización del Dengue en areas urbanas de México](https://luminous-crepe-19a0f1.netlify.app/)
+
+
+
+</span>
