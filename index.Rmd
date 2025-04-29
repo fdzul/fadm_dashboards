@@ -12,6 +12,13 @@ output:
 ---
  
  
+##  **<span style="color:#003300;">Dashboards (2025)</span>**
+
+<span style="color:#660033;">
+
+[Focos de Transmisión de las Arbovirosis en México](https://singular-alfajores-912cfc.netlify.app).
+
+</span>
   
 ##  **<span style="color:#003300;">Dashboards (2024)</span>**
 
